@@ -1,2 +1,2 @@
-# Person_detection_
+# Person_detection
 Person detection using yolov5 algorithm
